@@ -1,3 +1,4 @@
+theme: Merlot
 plugins:
   - jekyll-relative-links
 relative_links:
