@@ -16,6 +16,8 @@ Now this did sound fun and having outside people in to play would probably help 
 
 "Don't worry, we'll have everyone agree to not talk about information we haven't already released."
 
+And besides, he realised, the few days they have at the party won't be enough time to get through all of the content anyway.
+
 And so it was arranged. The developer spent several weeks polishing the expansion to a state he felt comfortable showing off. He had built in what he estimated to be roughly two hundred and fifty hours of delightful automation challenges, each more intricate than the last, a grand journey that would take players from their humble starting planet to the very edge of the solar system, like a clockwork universe designed by someone who had never quite grasped the concept of "easy mode."
 
 The day of the LAN party arrived with all the pomp and circumstance that Marketing could muster on a budget that had already been mostly spent on ergonomic chairs and premium coffee. Forty of the game's most celebrated content creators arrived, each carrying the sort of gaming equipment that suggested they took their virtual conveyor belts very seriously indeed. The developer had arranged for them to be split into four groups, which seemed like a reasonable way to manage such a crowd. What he hadn't quite anticipated was that Marketing had, with their characteristic efficiency in matters best left to chance, managed to place all ten of the game's most notorious optimization enthusiasts in the same group.
@@ -26,7 +28,7 @@ The developer gave a brief presentation about the expansion, explaining with gen
 
 What happened next could best be described as watching a group of surgeons perform an operation while riding motorcycles. The optimization enthusiasts set about the expansion with the sort of methodical precision that would have impressed a Swiss watchmaker, if Swiss watchmakers were in the habit of ignoring ninety percent of the mechanism and focusing solely on making the hands move as quickly as possible.
 
-Within the first hour, they had discovered a combination of interplanetary cargo rockets and asteroid mining platforms to create what one cheerfully dubbed "a resource multiplication loop that bends, but doesn't break, the laws of physics." By hour six, they had somehow managed to skip the entire second planet by using a technique involving rocket fuel and what appeared to be either genius or madness—the developer wasn't entirely sure which.
+Within the first hour, they had discovered a combination of interplanetary cargo rockets and asteroid mining platforms creating what one cheerfully dubbed "a resource multiplication loop that bends, but doesn't break, the laws of physics." By hour six, they had somehow managed to skip the entire second planet by using a technique involving rocket fuel and what appeared to be either genius or madness,—the developer wasn't entirely sure which.
 
 The developer watched with growing unease as his carefully crafted progression system was systematically dismantled like a house of cards in a hurricane. These players weren't savoring the intricate ballet of interplanetary logistics he had choreographed; they were performing what could only be described as cosmic breakdancing.
 
@@ -45,7 +47,6 @@ On the morning of the third day, with approximately seventy-three hours elapsed,
 "Thanks!" beamed the lead optimizer. "Great expansion! Can't wait to see how quickly we can get it down to under fifty hours once we optimize the route properly."
 
 The developer excused himself and went to find a very strong cup of coffee and a notebook. A special notebook. One that he would later come to think of as his "Balance Changes" notebook, though the Marketing Department would probably have preferred the term "Quality of Life Improvements."
-
 
 Videos of the LAN party spread across the internet, and completion times plummeted at an alarming rate. Over the following months, the developer made small adjustments to the game. Little things, really. Nothing dramatic.
 
