@@ -1,4 +1,8 @@
-# Backstory 
+# Fictionario
+
+[Read the story](https://janzert.github.io/fictionario/)
+
+# Backstory
 
 After the change to achievements in Factorio v2.0.45 to that basically killed
 100% speedrunning as it had been for close to a decade. Along with a few other
